@@ -2,7 +2,7 @@
 /classes/
 /target/
 /logs/
-/target/
 modules/*/target/
 .settings/
+.idea
 .DS_Store
